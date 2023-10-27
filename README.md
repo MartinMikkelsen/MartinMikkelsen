@@ -10,3 +10,5 @@
 
 ## StackExchange
 <a href="https://scicomp.stackexchange.com/users/42830/mmikkelsen"><img src="https://scicomp.stackexchange.com/users/flair/42830.png" width="208" height="58" alt="profile for mmikkelsen at Computational Science Stack Exchange, Q&amp;A for scientists using computers to solve scientific problems" title="profile for mmikkelsen at Computational Science Stack Exchange, Q&amp;A for scientists using computers to solve scientific problems"></a>
+
+<a href="https://stackexchange.com/users/24731050"><img src="https://stackexchange.com/users/flair/24731050.png" width="208" height="58" alt="profile for mmikkelsen on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for mmikkelsen on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
